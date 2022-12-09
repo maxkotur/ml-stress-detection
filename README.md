@@ -50,11 +50,3 @@ Miller, L., & Campo, J. V. (2021). Depression in adolescents. New England Journa
 
 
 
-Clarification Questions
-1.	To our knowledge, the final decision regarding finding the efficient ML methods for this problem will be found based on the data points in the dataset. However, I would like to ask if it makes sense to use Decision Trees/Random Forest in a binary classification problem. I believe these methods would make more sense to use in multi-class classification problems, but I am also curious if it would be possible to use them for binary classification,?
-
-
-2.	I am currently planning to work on a binary classification problem, but I am curious if it would be possible to convert a binary classification problem into a multi-class classification problem such as “Not depressed, slightly depressed, depressed, very depressed “ etc instead of “Depressed, Not depressed”. To our knowledge, to be able to perform this conversion, our dataset must be labeled accordingly (0/1/2/3) rather than simply 0/1. Would working on this be a good practice and challenge and do you think this is something we would be able to handle?
-
-
-3.	I aim to design this model and application in a way that end-users can easily interact with the model. To do this, I plan to ask users for their input through 5-10 open-ended questions based on the dataset that we trained. However, I have two challenges here. The first one is how to specify these questions. Is there a statistical way to specify these questions? The second is the overall assessment. The current plan aims to assess the input for every question separately, label them (depressed or not depressed) and then take the average of these labels to come up with an overall conclusion. However, this sounds like a very rough prediction, and we were wondering if we can come up with better ways to detect overall depression.
