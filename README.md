@@ -1,3 +1,6 @@
+# Google Slides Link
+https://docs.google.com/presentation/d/10Xl_32Uq8u7xmbPULNXNyCA8aIUrGDw9zOGTweIHxMw/edit?usp=sharing
+
 # ml-stress-detection
 Maxime Kotur - CSCI Neural Networks Project Proposal
 
